@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./public/header.png" alt="onedrive-vercel-index" />
   <h3><a href="https://drive.swo.moe">onedrive-vercel-index</a></h3>
   <p><a href="https://ovi.swo.moe/docs/getting-started">Get started</a> · <a href="https://ovi.swo.moe/blog/whats-new">What's new?</a> · <a href="https://ovi.swo.moe/sponsor/ways">Sponsoring</a></p>
   <p><em>OneDrive public directory listing, powered by Vercel and Next.js</em></p>
@@ -13,7 +12,7 @@
 
 ## Demo
 
-Live demo at [Spencer's OneDrive](https://drive.swo.moe).
+Live demo at [Spencer's OneDrive](https://mac.mediy.cn).
 
 ![demo](./public/demo.png)
 
@@ -35,6 +34,7 @@ Documentation is hosted at [ovi.swo.moe](https://ovi.swo.moe/).
 - I didn't find a solution / My problem is unique? [Find help in discussion forum](https://github.com/spencerwooo/onedrive-vercel-index/discussions).
 
 ## Server-*less* (free)?
+- [应用密钥加密](https://www.dute.org/aes),密钥填入onedrive-vercel-index
 - 部署完成，访问域名/onedrive-vercel-index-oauth/step-1/验证安装
 - Yes! Completely free with no backend server what-so-ever. (Well, we use Redis, but that's free to some extent also.)
 
