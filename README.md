@@ -130,7 +130,6 @@ Documentation is hosted at [ovi.swo.moe](https://ovi.swo.moe/).
 
 ## Server-*less* (free)?
 部署完成，访问域名/onedrive-vercel-index-oauth/step-1/验证安装
-/onedrive-vercel-index-oauth/step-1/
 Yes! Completely free with no backend server what-so-ever. (Well, we use Redis, but that's free to some extent also.)
 
 ## Sponsors and donations
