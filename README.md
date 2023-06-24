@@ -129,8 +129,8 @@ Documentation is hosted at [ovi.swo.moe](https://ovi.swo.moe/).
 - I didn't find a solution / My problem is unique? [Find help in discussion forum](https://github.com/spencerwooo/onedrive-vercel-index/discussions).
 
 ## Server-*less* (free)?
-部署完成，访问域名/onedrive-vercel-index-oauth/step-1/验证安装
-Yes! Completely free with no backend server what-so-ever. (Well, we use Redis, but that's free to some extent also.)
+- 部署完成，访问域名/onedrive-vercel-index-oauth/step-1/验证安装
+- Yes! Completely free with no backend server what-so-ever. (Well, we use Redis, but that's free to some extent also.)
 
 ## Sponsors and donations
 
